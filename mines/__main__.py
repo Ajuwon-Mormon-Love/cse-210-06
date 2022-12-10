@@ -21,7 +21,7 @@ def main():
     
     # create the banner
     banner = Actor()
-    banner.set_text("Score: ")
+    banner.set_text("Reach this side and avoid the mines")
     banner.set_font_size(constants.FONT_SIZE)
     banner.set_color(constants.WHITE)
     banner.set_position(Point(constants.CELL_SIZE, 0))
