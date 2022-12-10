@@ -62,13 +62,9 @@ class Director:
         robot.move_next(max_x, max_y)
         
         for artifact in artifacts:
-            artifact.move_next(max_x, max_y)
             if robot.get_position().equals(artifact.get_position()):
-                self._points = self._points + artifact.calc_points()
-                cast.remove_actor("artifacts", artifact)
-                
-        text = f"Score: {self._points}"
-        banner.set_text(text)   
+                banner.set_text("GAME OVER!!") 
+        
         
     def _do_outputs(self, cast):
         """Draws the actors on the screen.
