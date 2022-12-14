@@ -1,7 +1,8 @@
-## Final Project - Mines
-
+## Final Project 
+Mines
 what is Mines?
 Mine is a game where a player tries to cross the other side while avoiding mines that scattered all around
+
 -------------------------------------------------------------------
 ### Rules
 
