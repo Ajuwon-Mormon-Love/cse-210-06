@@ -1,7 +1,8 @@
-## Final - Mines
+## Final Project - Mines
 
-Mines is a game where a player tries to cross the other side while avoiding mines that scattered all around
-
+what is Mines?
+Mine is a game where a player tries to cross the other side while avoiding mines that scattered all around
+-------------------------------------------------------------------
 ### Rules
 
 Mines is played according to the following rules.
@@ -13,7 +14,7 @@ Mines is played according to the following rules.
 - If a player collides with the mines
   - A "game over" message is displayed in the middle of the screen.
   - Game ends
-
+------------------------------------------------------------------------
 ### Requirements
 
 The program must also meet the following requirements.
@@ -25,8 +26,8 @@ The program must also meet the following requirements.
 
 ### Project Structure
 
----
+-----------------------------------------------------------------------
 
-**Norre Daroy**
+**EMMANUEL OLUWAFEMI**
 
-*norrej.daroy@gmail.com*
+*femzyfemite@gmail.com*
